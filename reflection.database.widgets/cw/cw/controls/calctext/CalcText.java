@@ -655,6 +655,7 @@ public class CalcText extends CompCalc implements CControl{
 	
 	public void setPattern(String pattern){
 		this.pattern = pattern;
+		df = new DecimalFormat(this.pattern);
 		textCalc.removeFocusListener(focusListener);
 		textCalc.removeVerifyListener(verifyListener);
 		focusListener = new NumberFocusLost(pattern);

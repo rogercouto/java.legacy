@@ -255,6 +255,7 @@ public class RDE {
 		}
 		return fieldNames;
 	}
+	
 	/**
 	 * Imprime na tela os campos de um objeto qualquer
 	 * @param object - Objeto p/ verificação
