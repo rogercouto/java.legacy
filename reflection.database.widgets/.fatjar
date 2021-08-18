@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Wed Jun 06 20:13:25 BRT 2012
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=C\:\\Users\\Roger\\Dropbox\\Java - Libraries\\reflection.database.widgets.jar
+manifest.mergeall=true
+manifest.mainclass=
+manifest.file=<createnew>
+jarname.isextern=true
+onejar.expand=
+excludes=<po|reflection.database.engine>;<jar|swt.jar>
+includes=

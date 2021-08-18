@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Tue Jul 12 10:10:31 BRT 2011
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=D\:\\RC Workspace\\Libraries\\custom\\mysql.database.jar
+manifest.mergeall=true
+manifest.mainclass=
+manifest.file=<createnew>
+jarname.isextern=true
+onejar.expand=
+excludes=<po|reflection.database.engine>;<jar|mysql-connector-java-5.1.7-bin.jar>
+includes=
